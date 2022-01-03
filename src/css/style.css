@@ -1,9 +1,13 @@
 body {
-    background-color: black;
-    text-align: center;
-    color: white;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+body:visited {
+  color: white;
 }
 
 div {
-    margin-top: 20%;
+  margin-top: 20%;
 }
