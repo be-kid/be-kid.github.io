@@ -2,12 +2,26 @@ body {
   background-color: black;
   text-align: center;
   color: white;
+  width: 40vh;
+  margin: 0 auto;
 }
 
-body:visited {
+a {
   color: white;
 }
 
-div {
-  margin-top: 20%;
+img {
+  height: 20vh;
+  width: 20vh;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+.project {
+  margin: 1vh auto;
+  display: flex;
+  flex-direction: column;
 }
